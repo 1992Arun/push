@@ -11,14 +11,9 @@ public class Pushfile {
 	public static void print() {
 		
 		System.out.println("Test10");
-  System.out.println("Test20");
-System.out.println("Test30");
-System.out.println("Test50");
-System.out.println("Test60");
-		System.out.println("Test40");
-		System.out.println("Test30");
-		System.out.println("Test100");
 		System.out.println("Test20");
+		System.out.println("Test30");
+
 
 
        
