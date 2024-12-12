@@ -11,8 +11,8 @@ public class Pushfile {
 	public static void print() {
 		
 		System.out.println("Test 1");
-		System.out.println("Test 2");
 		System.out.println("Test 3");
+		System.out.println("Test 4");
 		
 	}
 
